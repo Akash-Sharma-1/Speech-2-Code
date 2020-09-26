@@ -1,7 +1,8 @@
-# four_spaces
+# Speech-2-Code-Generation
 
-BGL Intern Hackathon 2020 | Team four_spaces
+Mathworks BGL Intern Hackathon 2020 | Team four_spaces
 
+MATLAB Toolkit for generation of MATLAB code from speech inputs for execution.
 
 
 Usage Instructions regarding usage of speech2text file from MATLAB 
@@ -19,10 +20,4 @@ Usage Instructions regarding usage of speech2text file from MATLAB
 PreReqs:
 1. Make sure u have python on the system u are trying 
 2. You need to have MATLAB obviously
-3. When I say MATLAB I dont mean MATLAB Online !
-
-Integration:
-- Reeshabh will trigger this MATLAB Command from the GUI's button he has created
-- After this maybe u have to read the generated txt as input and give out the apt command jo execute hoga
-
     
